@@ -1,0 +1,24 @@
+            DOM
+Es todo lo que lo que compone la esturtura visual de las paginas web, la caja que esta dentro del 
+nodo <body></nody> operar el dom es la lo que js contruye y  es donde se hace la magia 
+ya que el aprovecha el poer de acceder a los nodos y aqui hacer ...lo que tu mente imagine,
+
+METODOS BASICOS PARA OPERAR LOS NODOS 
+-setAtribute()->modifica el valor de un atributo
+-getAtriute()->obetiene el valor del atributo
+-removeAtribute()->elimina el valor del atributo
+
+ATRIBUTOS GLOBALES
+estos atributos  permite operar cualquier nodo.
+-contenteditable -> indica que el elemento puede ser modificable es de tipo bool(permite
+modificar los datos en la pagina web)
+-Dir->
+
+INPUTS
+-className->acceder al nombre de la clase
+-value->acceder al valor del nodo
+-type->acceder al tipo del nodo y poder modificarlo
+-accept -> usado  para type fille para definir el formate de archivo a cargar
+-form-> permite ejecutar un input dentro en un form-> donde le especfiquemos a que formularion .id
+-minlengt-> especifica que un campo debe tener como minico sertos caracteres
+requerido..que el campo debe ser completados
