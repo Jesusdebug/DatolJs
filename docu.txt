@@ -10,3 +10,13 @@ Cofla entres de comprar quiere ver sus cualidades y comportamientos ..aqui vamos
 -crear un sistema para mostrarle las cualidades de los 3 celulares
 -cada celular debe tener : color, peso, resolucion de pantalla, resolucion de camara y memoria ram
 -cada celular debe poder prender, reiniciar, apagar, tomar fotos y grabar
+
+NUEVA IMPLEMENTACION
+cofla quiere un celular de mejor calidad es por eso que ha decido ir a otra tienda de 
+celulares de mayor gama.
+-vio dos celulares, estos dos celulares de alta gama pueden hacer todo lo que hacian los anteriores
+pero tienen mejores acaracteristicas y ademas pueden grabar en camara lenta, tienen reconocimiento
+facial y una camara extra
+
+    SOLUCIONES
+--implementar estas cualidades en los celulares de alta gama
