@@ -49,5 +49,4 @@ document.write(`
 ${celular1.mostrarInformacion()}<br>
 ${celular2.mostrarInformacion()}<br>
 ${celular3.mostrarInformacion()}<br>
-
 `);
