@@ -54,7 +54,7 @@ Ram: <b><h2>nueva implementacion</h2></b></br>
 `)
 //#region  nueva implementcion celulares de alta gama
 // ----------nueva implementacion----------------
-class CelularAltaGama extends Celular{
+class CelularAltaGama extends Celular {
   constructor(color, peso, rdp, rdc, ram, rcde) {
     super(color, peso, rdp, rdc, ram)
     this.resolucionCamaraExtra = rcde
@@ -65,12 +65,29 @@ class CelularAltaGama extends Celular{
   reconocimientoFacia() {
     alert('iniciando reconocimeinto facial')
   }
-  mostrarInformacionAltagama(){
-      return this.mostrarInformacion()+`Resolucion de caara tracera: ${this.resolucionCamaraExtra}`;
+  mostrarInformacionAltagama() {
+    return (
+      this.mostrarInformacion() +
+      `Resolucion de caara tracera: ${this.resolucionCamaraExtra}`
+    )
   }
 }
-celular1 = new CelularAltaGama('rojo', '130g', '5pugadas', '4k', '3gb' ,'full hd');
-celular2 = new CelularAltaGama('negro', '155g', '6pugadas', '5k', '4gb','full hd');
+celular1 = new CelularAltaGama(
+  'rojo',
+  '130g',
+  '5pugadas',
+  '4k',
+  '3gb',
+  'full hd',
+)
+celular2 = new CelularAltaGama(
+  'negro',
+  '155g',
+  '6pugadas',
+  '5k',
+  '4gb',
+  'full hd',
+)
 document.write(`
 ${celular1.mostrarInformacion()}<br>
 ${celular2.mostrarInformacion()}<br>

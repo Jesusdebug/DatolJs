@@ -1,0 +1,9 @@
+            INDCRIPIONES PARA SEMESTRE B
+PROBLEMA DE LA CALCULADORA
+cofla ya esta terminando el primer semestre del primer ciclo, la tarea que debe realizar
+es mucho mas acanzada de la que tenia antes, ademas de las operaciones matematicas basicas
+ahora debe calcular potencias, reices cuadradas y cubicas.
+REQUERIMIENTO 1
+-perfeccionar la calculadora para implementar nuevas funciones.
+
+
