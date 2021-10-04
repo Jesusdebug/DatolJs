@@ -1,0 +1,9 @@
+            PLANTEAMIENTO DEL PROBLEMA 
+cofla se ha quedado enserrado porque se le rompio la llave, pero necesita ir urgente a la universida 
+ya que no quiere faltar una sola vez si quiere aprobar todas la materias que le faltan 
+ya que esta al limite de asistencia, entoces tiene que llamar al cerrajero y  indicarle que le traiga la llave idicada .
+No nay tiempo suficiente como para que el serrajero vea cual es la llave indicada, solo puede traer una llave 
+y probar, entoces cofla se da cuenta de que es una llave antigua, por ende no hace falta afilarla, solo necesita 
+decir el mmodelo de la llave para que el cerrajero traiga la llave, como no ahi internet entoces debe pedirle a 
+un programador que haga un sistema para mostrar las llaves posibles y detectar la idicada, hay solo 10 modelos 
+posibles, permitir que cofla selecciones el indicado.

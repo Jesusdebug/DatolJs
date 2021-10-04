@@ -1,0 +1,19 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #333;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.flex-item{
+    flex-wrap: 1;
+    flex-basis: 300px;
+    margin: 20px;
+    max-width: 300px;
+    border: 2px solid red ;
+    padding: 20px;
+}
+.flex-item::shadow 
+.llave-img{
+    width: 300px;
+}
